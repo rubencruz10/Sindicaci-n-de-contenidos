@@ -10,7 +10,7 @@
             <pubDate>Mon, 02 May 2024 00:00:00 GMT</pubDate>
             <link>http://www.ejemplo.com/oferta1.html</link>
         </item>
-        <!-- Puedes agregar más ítems aquí -->
+
     </channel>
     <channel>
         <title>Últimas Noticias</title>
@@ -22,6 +22,5 @@
             <pubDate>Mon, 02 May 2024 00:00:00 GMT</pubDate>
             <link>http://www.ejemplo.com/noticia1.html</link>
         </item>
-        <!-- Puedes agregar más ítems aquí -->
     </channel>
 </rss>
