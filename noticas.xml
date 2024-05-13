@@ -2,18 +2,18 @@
 <rss version="2.0">
     <channel>
         <title>Últimas Noticias</title>
-        <link>https://rubencruz10.github.io/Sindicaci-n-de-contenidos/noticias.html</link>
+        <link>https://rubencruz10.github.io/Sindicaci-n-de-contenidos</link>
         <description>Las últimas noticias destacadas.</description>
         <lastBuildDate>Thu, 13 May 2024 00:00:00 GMT</lastBuildDate>
         <item>
             <title>Real Madrid Gana la Liga</title>
-            <link>https://tuweb.com/articulo/real-madrid-liga</link>
+            <link>https://rubencruz10.github.io/Sindicaci-n-de-contenidos/noticias.html</link>
             <description>El Real Madrid se corona campeón de La Liga.</description>
             <pubDate>Mon, 02 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Barcelona Contrata Nuevo Entrenador</title>
-            <link>https://tuweb.com/articulo/barcelona-entrenador</link>
+            <link>https://rubencruz10.github.io/Sindicaci-n-de-contenidos/noticias.html</link>
             <description>El Barcelona anuncia la contratación de un nuevo entrenador.</description>
             <pubDate>Sun, 01 May 2024 00:00:00 GMT</pubDate>
         </item>

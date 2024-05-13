@@ -2,18 +2,18 @@
 <rss version="2.0">
     <channel>
         <title>Ofertas de Jugadores</title>
-        <link>https://rubencruz10.github.io/Sindicaci-n-de-contenidos/ofertas.html</link>
+        <link>https://rubencruz10.github.io/Sindicaci-n-de-contenidos</link>
         <description>Últimas ofertas de jugadores destacados.</description>
         <lastBuildDate>Thu, 13 May 2024 00:00:00 GMT</lastBuildDate>
         <item>
             <title>Lionel Messi</title>
-            <link>https://tuweb.com/articulo/messi</link>
+            <link>https://rubencruz10.github.io/Sindicaci-n-de-contenidos/ofertas.html</link>
             <description>El PSG ofrece contrato millonario a Messi.</description>
             <pubDate>Mon, 02 May 2024 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title>Kylian Mbappé</title>
-            <link>https://tuweb.com/articulo/mbappe</link>
+            <link>https://rubencruz10.github.io/Sindicaci-n-de-contenidos/ofertas.html</link>
             <description>El Real Madrid negocia con el PSG por Mbappé.</description>
             <pubDate>Sun, 01 May 2024 00:00:00 GMT</pubDate>
         </item>
