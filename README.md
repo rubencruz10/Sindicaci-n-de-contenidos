@@ -1,1 +1,0 @@
-# Sindicacion-de-contenidos
