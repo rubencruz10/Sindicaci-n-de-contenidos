@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="alternate" type="application/rss+xml" title="Noticias" href="https://rubencruz10.github.io/Sindicaci-n-de-contenidos/noticias.xml">
+    <title>Últimas Noticias</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section.noticias {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            padding: 20px;
+        }
+        article {
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 10px;
+            padding: 20px;
+            max-width: 300px;
+            text-align: center;
+        }
+        article h2 {
+            color: #333;
+        }
+        article p {
+            color: #666;
+            margin-bottom: 10px;
+        }
+        article img {
+            border-radius: 50%;
+            margin-top: 10px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        footer a {
+            color: #fff; /* Cambia el color del texto del enlace */
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+        footer a:hover {
+            background-color: #555; /* Cambia el color de fondo del enlace al pasar el ratón */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Últimas Noticias</h1>
+    </header>
+    <section class="noticias">
+        <article>
+            <h2>Real Madrid Gana la Liga</h2>
+            <p>El Real Madrid se corona campeón de La Liga.</p>
+            <p>Fecha: 2024-05-02</p>
+            <img src="images/madrid.png" alt="Madrid" width="150" height="150">
+        </article>
+        <article>
+            <h2>Barcelona Contrata Nuevo Entrenador</h2>
+            <p>El Barcelona anuncia la contratación de un nuevo entrenador.</p>
+            <p>Fecha: 2024-05-01</p>
+            <img src="images/barca.png" alt="Barcelona" width="150" height="150">
+        </article>
+    </section>
+    <footer>
+        <p><a href="index.html">Volver al Inicio</a></p>
+    </footer>
+</body>
+</html>
